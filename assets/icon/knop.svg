@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300px" height="97px" viewBox="0 0 300 97" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>knop</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="279" height="76" rx="8"></rect>
+    </defs>
+    <g id="Onderdeel_#2.1:-Eindresultaat-interface" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="style-guide" transform="translate(-505.000000, -384.000000)">
+            <g id="knop" transform="translate(505.752720, 384.499469)">
+                <g id="Rectangle-8">
+                    <use fill="#34495E" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <rect stroke="#979797" stroke-width="1" x="0.5" y="0.5" width="278" height="75" rx="8"></rect>
+                </g>
+                <text id="Log-in" font-family="Raleway-Medium, Raleway" font-size="36" font-weight="400" fill="#FFFFFF">
+                    <tspan x="92.015625" y="47.396">Log in</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
